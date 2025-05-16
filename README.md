@@ -1,3 +1,3 @@
 # python-calculator
-A simple, yet working Python Calculator.
-__Under heavy development.__
+A simple, yet working Python Calculator. <br>
+**Under heavy development.**
